@@ -1,0 +1,50 @@
+[
+	{"marque":"Rolex","modele":"Submariner","genre":"Homme","type":"Mecanique","prix":10000,
+	"img":"Submariner.png"},
+	{"marque":"Casio","modele":"SlowRound11","genre":"Homme","type":"Mecanique","prix":290,
+	"img":"SlowRound11.jpg"},
+	{"marque":"Casio","modele":"CollectionA168wa-1yes","genre":"Homme","type":"Electronique","prix":35,
+	"img":"CollectionA168wa-1yes.jpg"},
+	{"marque":"Casio","modele":"G-ShockSkyCockpit","genre":"Homme","type":"Mecanique","prix":226,
+	"img":"G-ShockSkyCockpit.jpg"},
+	{"marque":"Swatch","modele":"Anisette","genre":"Femme","type":"Mecanique","prix":60,
+		"img":"Anisette.jpg"},
+	
+
+	{ "marque": "Lacoste", "modele":"Capbreton", "genre" : "Homme", "type" : "Mecanique", "prix" :149, 
+		"img" : "Capbreton.png"},
+	{ "marque": "Tommy Hilfiger", "modele":"1791486", "genre" : "Homme", "type" : "Mecanique", "prix" :179, 
+		"img" : "1791486.png"},
+	{ "marque": "Diesel", "modele":"Daddies", "genre" : "Homme", "type" : "Mecanique", "prix" :510, 
+		"img" : "Daddies.png"},
+	{ "marque": "Expedition", "modele":"VibeShock", "genre" : "Homme", "type" : "Electronique", "prix" :89, 
+		"img" : "VibeShock.png"},
+	{ "marque": "Pulsar", "modele":"SportChronoDigital", "genre" : "Homme", "type" : "Electronique", "prix" :60, 
+			"img" : "SportChronoDigital.jpg"},
+
+	{ "marque": "Lacoste", "modele":"12-12Blanc", "genre" : "Femme", "type" : "Mecanique", "prix" :99, 
+		"img" : "12-12Blanc.png"},
+	{ "marque": "Charlie Paris", "modele":"Monceau", "genre" : "Femme", "type" : "Mecanique", "prix" :135, 
+		"img" : "Monceau.png"},
+	{ "marque": "Nixon", "modele":"Siren", "genre" : "Femme", "type" : "Electronique", "prix" :99, 
+		"img" : "Siren.png"},
+	{ "marque": "Casio", "modele":"Vintage", "genre" : "Femme", "type" : "Electronique", "prix" :60, 
+		"img" : "Vintage.png"},
+	{"marque":"Codhor","modele":"C25497","genre":"Femme","type":"Mecanique","prix":69,
+		"img":"C25497.jpg"},
+
+	{ "marque": "Ice", "modele":"fantasia-White", "genre" : "Enfant", "type" : "Mecanique", "prix" :90, 
+		"img" : "fantasia-White.png"},
+	{ "marque": "Ice", "modele":"olaKids-Rocket", "genre" : "Enfant", "type" : "Mecanique", "prix" :60, 
+		"img" : "olaKids-Rocket.png"},
+	{ "marque": "Lacoste", "modele":"12-12KidsBlanc", "genre" : "Enfant", "type" : "Mecanique", "prix" :59, 
+		"img" : "12-12KidsBlanc.png"},
+	{ "marque": "Timex", "modele":"Youth", "genre" : "Enfant", "type" : "Electronique", "prix" :22, 
+		"img" : "Youth.png"},
+	{ "marque": "Linkoo", "modele":"Pop", "genre" : "Enfant", "type" : "Electronique", "prix" :139,
+		 "img" : "Pop.png"},
+	{"marque":"Swatch","modele":"Toile-fraisee","genre":"Enfant","type":"Mecanique","prix":60,
+		"img":"Toile-fraisee.jpg"}
+
+
+]

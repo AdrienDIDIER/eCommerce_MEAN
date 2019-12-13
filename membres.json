@@ -1,0 +1,4 @@
+[
+	{"nom":"MARTIN","prenom":"Loic", "email" : "loic.martin@etu.umontpellier.fr", "mdp" :"qwerty0000", "estConnecte" : 0},
+	{"nom":"DIDIER","prenom":"Adrien", "email" : "adrien.didier@etu.umontpellier.fr", "mdp" : "azerty1234", "estConnecte" : 0}
+]
